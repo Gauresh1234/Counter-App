@@ -1,5 +1,3 @@
-document.querySelector("h1").style.color = "Black";
-
 function increment() {
   var count = document.getElementById("counter").value;
   count++;
